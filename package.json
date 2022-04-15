@@ -9,6 +9,7 @@
   "author": "Debayan Ray",
   "license": "ISC",
   "dependencies": {
+    "bootstrap": "^4.6.1",
     "express": "^4.17.3",
     "socket.io": "^4.4.1"
   },
